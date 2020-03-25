@@ -1,3 +1,5 @@
+<a href="https://fem.digital" rel="FEM | Future Education Modena">![](FEM_Logo.png)</a>
+
 # Lingua italiana e didattica digitale: consigli, suggerimenti e buone pratiche
 
 ## 1. Linguistica: che cos’è? Che cosa ci insegna? Come può essere utilizzata per favorire l’apprendimento? Una chiacchierata con i linguisti
