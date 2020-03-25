@@ -9,3 +9,6 @@ A [questo link](https://www.voyant-tools.org/) è possibile accedere alla versio
 ## Step 1: caricare uno o più testi
 È possibile caricare un set di documenti o anche un singolo documento su cui lavorare, . È possibile caricare testi attraverso un link diretto ad un file di testo, rendendo lo strumento facilmente integrabile con testi presi dal sito Project Gutenberg (o altri siti che offrono opere letterarie in formato txt).
 Tutte le analisi e le relative visualizzazioni possono essere facilmente esportate in formato immagine, o è possibile generare un link per accedere direttamente alla visualizzazione scelta, rendendo la condivisione all’interno e all’esterno della classe molto semplice.
+
+
+<iframe style='width: 1920px; height: 927px;' src='https://www.voyant-tools.org/tool/Mandala/?query=mr&query=mrs&query=said&query=miss&query=think&query=know&query=good&query=time&query=little&query=soon&corpus=austen&subtitle=The%20Works%20of%20Jane%20Austen'></iframe>
