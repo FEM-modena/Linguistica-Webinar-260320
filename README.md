@@ -72,15 +72,15 @@ Nella home ci sono 5 box principali con le seguenti funzioni:
 **Cirrus** 
 Crea un word cloud, cioè una rappresentazione grafica in cui le parole più frequenti in un corpus o documento sono al centro e più grandi. 
 Di seguito un esempio usando il dataset sul Climate Change di *doccano*
-<iframe style='width: 1024px; height: 768px;' src='https://voyant-tools.org/tool/Cirrus/?view=Cirrus&corpus=e849a58bda0069ef96ecd72dbe862e65'></iframe>
+<iframe style='width: 716px; height: 537px;' src='https://voyant-tools.org/tool/Cirrus/?view=Cirrus&corpus=e849a58bda0069ef96ecd72dbe862e65'></iframe>
 
 **Termini**
 Fornisce la lista delle parole con conteggio di frequenza. *Possibili attività*: dato un word cloud, riconoscere il testo e l’autore. Oppure confrontare due passaggi di un testo per ragionare sui collegamenti (similitudini e differenze) tra le due visualizzazioni (es. descrizioni di personaggi e luoghi) 
 
 **Link**
 Grafo delle collocazioni a rete che mostra le parole con frequenza maggiore che appaiono vicino alla parola data. *Possibili attività*: far indovinare una poesia a partire dal grafo, come negli esempi seguenti con poesie di Leopardi.
-<iframe style='width: 100%; height: 768px;' src='https://voyant-tools.org/tool/CollocatesGraph/?view=CollocatesGraph&query=pensier&query=caro&query=colle&mode=corpus&corpus=835d7e392455d29e6bb7060b81eeefef'></iframe>
-<iframe style='width: 100%; height: 768px;' src='https://voyant-tools.org/tool/CollocatesGraph/?view=CollocatesGraph&query=festa&query=giorno&query=d%C3%AD&mode=corpus&corpus=414f8f39b2700d5b19e9af9efd1bfcc8'></iframe>
+<iframe style='width: 716px; height: 537px;' src='https://voyant-tools.org/tool/CollocatesGraph/?view=CollocatesGraph&query=pensier&query=caro&query=colle&mode=corpus&corpus=835d7e392455d29e6bb7060b81eeefef'></iframe>
+<iframe style='width: 716px; height: 537px;' src='https://voyant-tools.org/tool/CollocatesGraph/?view=CollocatesGraph&query=festa&query=giorno&query=d%C3%AD&mode=corpus&corpus=414f8f39b2700d5b19e9af9efd1bfcc8'></iframe>
 
 **Lettore**
 Permette di consultare i testi presenti nel corpus, graficamente rappresentati con barre in fondo al box. Cliccando su una parola vengono fornite informazioni sulla frequenza e la loro distribuzione all’interno del testo (linea in fondo al box).
@@ -91,14 +91,14 @@ Permette di consultare i testi presenti nel corpus, graficamente rappresentati c
 **Andamenti**
 Presenta un grafico dell'andamento della frequenza relativa delle parole nel documento. 
 *Possibili attività*: confrontare concetti (es. matrimonio, soldi) per scoprire che relazione c’è e come si caratterizza. Il trend è come ci si aspettava? C’è un motivo perché devia? A seguire una proposta di analisi della parola “occhi” nella Divina Commedia
-<iframe style='width: 100%; height: 768px;' src='https://voyant-tools.org/tool/Trends/?view=Trends&query=occhi&mode=document&corpus=0cda884ed26443243873a8479b10925b'></iframe>
+<iframe style='width: 716px; height: 537px;' src='https://voyant-tools.org/tool/Trends/?view=Trends&query=occhi&mode=document&corpus=0cda884ed26443243873a8479b10925b'></iframe>
    
 **Contesti**
 Mostra ciascuna occorrenza di una parola chiave con una porzione di testo che lo circonda (contesto). Di seguito due esempi con il dataset Coronavirus
 Occorrenze della parola Cina (come si parlava della Cina durante lo scoppio dell’epidemia?)
-<iframe style='width: 100%; height: 768px;' src='https://voyant-tools.org/tool/Contexts/?view=Contexts&query=cina&corpus=50d8266fc9a14a615f028ce5bf240e78'></iframe>
+<iframe style='width: 716px; height: 537px;' src='https://voyant-tools.org/tool/Contexts/?view=Contexts&query=cina&corpus=50d8266fc9a14a615f028ce5bf240e78'></iframe>
 Come si parla della Cina dopo lo scoppio dell’epidemia in Europa
-<iframe style='width: 100%; height: 768px;' src='https://voyant-tools.org/tool/Contexts/?view=Contexts&categories=dee5baf2c5f55278c149c2344e0f6732&query=cina*&corpus=7f874731d8b644a836e26a6ea818266c'></iframe>
+<iframe style='width: 716px; height: 537px;' src='https://voyant-tools.org/tool/Contexts/?view=Contexts&categories=dee5baf2c5f55278c149c2344e0f6732&query=cina*&corpus=7f874731d8b644a836e26a6ea818266c'></iframe>
 
 **Bubblelines**
 Visualizza ogni termine come una bolla, la cui dimensione indica la frequenza del termine.
@@ -111,13 +111,13 @@ Permette di rappresentare graficamente i collegamenti tra persone, organizzazion
 **Mandala**
 È un tool di visualizzazione che permette, a partire da un termine chiave o magnete (scelto dall’utente) di attrarre a sé tutti i documenti che contengono quel termine in base alla sua frequenza relativa. A seguire due esempi: 
 Jane Austen 
-<iframe style='width: 100%; height: 768px;' src='https://www.voyant-tools.org/tool/Mandala/?query=mr&query=mrs&query=said&query=miss&query=think&query=know&query=good&query=time&query=little&query=soon&corpus=austen&subtitle=The%20Works%20of%20Jane%20Austen'></iframe>
+<iframe style='width: 716px; height: 537px;' src='https://www.voyant-tools.org/tool/Mandala/?query=mr&query=mrs&query=said&query=miss&query=think&query=know&query=good&query=time&query=little&query=soon&corpus=austen&subtitle=The%20Works%20of%20Jane%20Austen'></iframe>
 Dataset Brexit
-<iframe style='width: 100%; height: 768px;' src='https://voyant-tools.org/tool/Mandala/?view=Mandala&query=brexit&query=regno&query=johnson&query=unito&query=corbyn&query=labour&query=leader&query=anni&query=britannici&query=partito&corpus=44bbe58e3869c7071071cc58b46584a8'></iframe>
+<iframe style='width: 716px; height: 537px;' src='https://voyant-tools.org/tool/Mandala/?view=Mandala&query=brexit&query=regno&query=johnson&query=unito&query=corbyn&query=labour&query=leader&query=anni&query=britannici&query=partito&corpus=44bbe58e3869c7071071cc58b46584a8'></iframe>
 
 **Topics**
 Questo tool utilizza un algoritmo di topic modelling per creare dei cluster di parole (dei topic, temi) presenti nei testi. Gli esiti usando testi di fiction sono complessi da analizzare, e in generale il suo utilizzo è più apprezzato con non-fiction. *Possibili attività*: cercare di ricondurre i topics trovati dal tool a temi presenti nel romanzo secondo l’antologia. Oppure analizzare articoli di cronaca, come nell’esempio seguente sul Covid-19
-<iframe style='width: 100%; height: 618px;' src='https://voyant-tools.org/tool/Topics/?view=Topics&stopList=stop.it.italian.txt&corpus=d973efb95eb9f56881ee034bb91fac43'></iframe>
+<iframe style='width: 716px; height: 537px;' src='https://voyant-tools.org/tool/Topics/?view=Topics&stopList=stop.it.italian.txt&corpus=d973efb95eb9f56881ee034bb91fac43'></iframe>
  
 **Dreamscape** | Visualizzare i luoghi menzionati nei testi per un viaggio virtuale
 Questo strumento identifica i luoghi menzionati nel testo e suggerisce delle connessioni tra essi basandosi sulla sequenza con cui vengono menzionati nel testo. Data la semplicità dell’algoritmo, non è detto che ogni sequenza di luoghi sia significativa: perciò sarà ancora più interessante indagare se il collegamento creato dal tool identifichi un effettivo spostamento di persone, beni, idee, o altro e sia rilevante per l’analisi. Sarà anche possibile trovare errori (falsi positivi e negativi), quindi l’importante è non fidarsi al 100% dei dati ma far seguire sempre un’analisi critica. *Possibili attività*: studi interdisciplinari tra storia e letteratura.
