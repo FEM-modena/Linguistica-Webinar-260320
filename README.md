@@ -7,6 +7,7 @@
 ### Introduzione
 
 servono delle slides
+<a href="https://voyant-tools.org" target="_blank">Voyant Tools</a>
 
 
 ## 2. Annotazione linguistica in classe: @@@@fake news/metafore/comprensione del testo/etc...
