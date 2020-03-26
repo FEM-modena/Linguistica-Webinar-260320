@@ -23,10 +23,8 @@ Vediamo adesso gli step da seguire per utilizzarlo al meglio.
 
 ### Video-tutorial all’uso della piattaforma
 
-Ora faremo una demo live delle attività
+Ora vi guideremo passo passo nello svolgimento dell’attività **Comprensione del testo**; la procedura è illustrata nelle slide dalla n.14 alla n.25. Di seguito, un video-tutorial sull’uso della piattaforma di annotazione (*doccano*)
 
-TEST SLIDES
-<iframe src="https://docs.google.com/presentation/d/1pu8b3L7J1aJ5fAxT6sb9XZ1IBkbcTC8klgbXqq8l-CE/embed?start=false&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzLIxXLdHDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -195,4 +193,3 @@ Il seguente esempio mostra i luoghi menzionati nell’opera *Olanda* di Edmondo 
 *Possibile attività - extra*
 
 Voyant Tools si presta bene anche all’analisi dei propri testi. Si può proporre alla classe di creare un corpus con i testi di tutti gli studenti e poi analizzarli, per scoprire trend e difficoltà e promuovere autocorrezione e riflessione sui propri elaborati.
-
