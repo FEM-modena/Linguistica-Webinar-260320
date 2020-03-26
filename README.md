@@ -59,6 +59,9 @@ IMMAGINE
 [Background vector created by macrovector - www.freepik.com](https://www.freepik.com/free-vector/engineer-cartoon-vertical-banners_4005768.htm#query=civil%20engineer&position=10)
 
 ### Linguistica per i linguaggi tecnici e specialistici: il caso dell’Ingegneria Civile
+
+![](cew.jpg)
+
 Il progetto <a href="http://www.cewriting.org/" target="_blank">Civil Engineering Writing Project</a> esemplifica bene l’applicazione di metodi e strumenti linguistici al servizio del linguaggio specialistico/tecnico. Lo scopo del progetto, condotto dalla professoressa Susan Conrad (Portland State University), è quello di affrontare “il divario tra le competenze di scrittura degli studenti, e le competenze richieste sul (futuro) luogo di lavoro” (v. <a href="http://www.cewriting.org/" target="_blank">homepage del progetto</a>).
 
 **come**: attraverso un’analisi linguistica di testi reali di Ingegneria Civile, prodotti da professionisti e da studenti. Si tratta di documenti tecnici, che fanno parte del lavoro quotidiano di professionisti: report, documentazione, email.
