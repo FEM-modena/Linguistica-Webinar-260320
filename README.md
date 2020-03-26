@@ -77,6 +77,9 @@ Diversi ambiti della linguistica, tra cui l’analisi del discorso e delle metaf
 
 
 ### Lo strumento *Voyant* | *close* e *distant reading* di testi
+
+![](voyant.jpg)
+
 Creato da Stéfan Sinclair (McGill University) e Geoffrey Rockwell (University of Alberta), a partire dalla teoria del **Distant Reading** sviluppata da Franco Moretti per l’esplorazione quantitativa e “distante” (ovvero, senza leggere i testi) della letteratura.
 Alla base del **Distant Reading** c’è l’idea (provocatoria) di *studiare la letteratura senza leggere libri*. L’approccio quantitativo proposto da Moretti (e realizzabile attraverso Voyant) si basa sull’analisi di aspetti (frequenza delle parole, rappresentazioni grafiche delle relazioni tra personaggi, etc…) che solo una visione digitale d’insieme può fornire. Questi dettagli, strutturati in reti e grafi, permettono di scoprire dettagli non altrimenti identificabili attraverso una lettura “*tradizionale*”. Lo <a href="https://litlab.stanford.edu/" target="_blank">Stanford Literary Lab</a> prosegue il lavoro sulla teoria e la metodologia del *distant reading* anche attraverso la pubblicazione di brevi <a href="https://litlab.stanford.edu/pamphlets/" target="_blank">*pamphlet*</a> che raccontano - in maniera divulgativa - i risultati delle ricerche condotte. Una breve descrizione (in Inglese) dell’approccio *Distant Reading* è stata pubblicata dal <a href="https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html" target="_blank">New York Times</a>; un articolo di approfondimento è invece <a href="http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html" target="_blank">disponibile a questo link</a>.
 
