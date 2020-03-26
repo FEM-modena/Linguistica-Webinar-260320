@@ -76,7 +76,7 @@ Di seguito un **esempio usando il dataset sul Climate Change di *doccano*** ([qu
 
   
 
-<iframe style='width: 716px; height: 666px;' src='https://voyant-tools.org/tool/Cirrus/?view=Cirrus&corpus=e849a58bda0069ef96ecd72dbe862e65'></iframe>
+<iframe style='width: 60%; height: 600px;' src='https://voyant-tools.org/tool/Cirrus/?view=Cirrus&corpus=e849a58bda0069ef96ecd72dbe862e65'></iframe>
 
   
 
@@ -90,9 +90,9 @@ Fornisce la lista delle parole con conteggio di frequenza. *Possibili attività*
 
 Grafo delle collocazioni a rete che mostra le parole con frequenza maggiore che appaiono vicino alla parola data. *Possibili attività*: far indovinare una poesia a partire dal grafo, come negli esempi seguenti con poesie di Leopardi; [qui la versione fullscreen del primo esempio](https://voyant-tools.org/tool/CollocatesGraph/?view=CollocatesGraph&query=pensier&query=caro&query=colle&mode=corpus&corpus=835d7e392455d29e6bb7060b81eeefef); [qui la versione fullscreen del secondo esempio](https://voyant-tools.org/tool/CollocatesGraph/?view=CollocatesGraph&query=festa&query=giorno&query=d%C3%AD&mode=corpus&corpus=414f8f39b2700d5b19e9af9efd1bfcc8)
 
-<iframe style='width: 716px; height: 704px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=pensier&query=caro&query=colle&mode=corpus&corpus=835d7e392455d29e6bb7060b81eeefef'></iframe>
+<iframe style='width: 60%; height: 600px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=pensier&query=caro&query=colle&mode=corpus&corpus=835d7e392455d29e6bb7060b81eeefef'></iframe>
 
-<iframe style='width: 716px; height: 704px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=festa&query=giorno&query=d%C3%AD&mode=corpus&corpus=414f8f39b2700d5b19e9af9efd1bfcc8'></iframe>
+<iframe style='width: 60%; height: 600px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=festa&query=giorno&query=d%C3%AD&mode=corpus&corpus=414f8f39b2700d5b19e9af9efd1bfcc8'></iframe>
 
 **Lettore**
 
@@ -112,17 +112,17 @@ Presenta un grafico dell'andamento della frequenza relativa delle parole nel doc
 
 *Possibili attività*: confrontare concetti (es. matrimonio, soldi) per scoprire che relazione c’è e come si caratterizza. Il trend è come ci si aspettava? C’è un motivo perché devia? A seguire una proposta di analisi della parola “occhi” nella Divina Commedia [qui la versione fullscreen](https://voyant-tools.org/tool/Trends/?view=Trends&query=occhi&mode=document&corpus=0cda884ed26443243873a8479b10925b)
 
-<iframe style='width: 716px; height: 704px;' src='https://voyant-tools.org/tool/Trends/?query=occhi&mode=document&corpus=0cda884ed26443243873a8479b10925b'></iframe>
+<iframe style='width: 60%; height: 600px;' src='https://voyant-tools.org/tool/Trends/?query=occhi&mode=document&corpus=0cda884ed26443243873a8479b10925b'></iframe>
 
 **Contesti**
 
 Mostra ciascuna occorrenza di una parola chiave con una porzione di testo che lo circonda (contesto). Di seguito due esempi con il dataset Coronavirus presente su *doccano*. Il primo mostra come si parlava della Cina durante lo scoppio dell’epidemia attraverso le occorrenze della parola *Cina* ([qui la versione fullscreen](https://voyant-tools.org/tool/Contexts/?view=Contexts&query=cina&corpus=50d8266fc9a14a615f028ce5bf240e78))
 
-<iframe style='width: 716px; height: 704px;' src='https://voyant-tools.org/tool/Contexts/?query=cina&corpus=50d8266fc9a14a615f028ce5bf240e78'></iframe>
+<iframe style='width: 60%; height: 600px;' src='https://voyant-tools.org/tool/Contexts/?query=cina&corpus=50d8266fc9a14a615f028ce5bf240e78'></iframe>
 
 Nel secondo si può osservare come si parla della Cina dopo lo scoppio dell’epidemia in Europa ([qui la versione fullscreen](https://voyant-tools.org/tool/Contexts/?view=Contexts&categories=dee5baf2c5f55278c149c2344e0f6732&query=cina*&corpus=7f874731d8b644a836e26a6ea818266c))
   
-<iframe style='width: 716px; height: 704px;' src='https://voyant-tools.org/tool/Contexts/?query=cina*&corpus=7f874731d8b644a836e26a6ea818266c'></iframe>  
+<iframe style='width: 60%; height: 600px;' src='https://voyant-tools.org/tool/Contexts/?query=cina*&corpus=7f874731d8b644a836e26a6ea818266c'></iframe>  
 
 **Bubblelines**
 
@@ -147,12 +147,12 @@ Permette di rappresentare graficamente i collegamenti tra persone, organizzazion
 
 Jane Austen ([qui la versione fullscreen](https://www.voyant-tools.org/tool/Mandala/?query=mr&query=mrs&query=said&query=miss&query=think&query=know&query=good&query=time&query=little&query=soon&corpus=austen&subtitle=The%20Works%20of%20Jane%20Austen))
   
-<iframe style='width: 716px; height: 704px;' src='https://www.voyant-tools.org/tool/Mandala/?query=mr&query=mrs&query=said&query=miss&query=think&query=know&query=good&query=time&query=little&query=soon&corpus=austen&subtitle=The%20Works%20of%20Jane%20Austen'></iframe>
+<iframe style='width: 60%; height: 600px;' src='https://www.voyant-tools.org/tool/Mandala/?query=mr&query=mrs&query=said&query=miss&query=think&query=know&query=good&query=time&query=little&query=soon&corpus=austen&subtitle=The%20Works%20of%20Jane%20Austen'></iframe>
   
 
 Dataset Brexit ([qui la versione fullscreen](https://voyant-tools.org/tool/Mandala/?view=Mandala&query=brexit&query=regno&query=johnson&query=unito&query=corbyn&query=labour&query=leader&query=anni&query=britannici&query=partito&corpus=44bbe58e3869c7071071cc58b46584a8))
 
- <iframe style='width: 1536px; height: 704px;' src='https://voyant-tools.org/tool/Mandala/?query=brexit&query=regno&query=johnson&query=unito&query=corbyn&query=labour&query=leader&query=anni&query=britannici&query=partito&corpus=44bbe58e3869c7071071cc58b46584a8'></iframe>
+ <iframe style='width: 60%; height: 600px;' src='https://voyant-tools.org/tool/Mandala/?query=brexit&query=regno&query=johnson&query=unito&query=corbyn&query=labour&query=leader&query=anni&query=britannici&query=partito&corpus=44bbe58e3869c7071071cc58b46584a8'></iframe>
 
   
 
@@ -160,7 +160,7 @@ Dataset Brexit ([qui la versione fullscreen](https://voyant-tools.org/tool/Manda
 
 Questo tool utilizza un algoritmo di topic modelling per creare dei cluster di parole (dei topic, temi) presenti nei testi. Gli esiti usando testi di fiction sono complessi da analizzare, e in generale il suo utilizzo è più apprezzato con non-fiction. *Possibili attività*: cercare di ricondurre i topics trovati dal tool a temi presenti nel romanzo secondo l’antologia. Oppure analizzare articoli di cronaca, come nell’esempio seguente sul Covid-19 ([qui la versione fullscreen](https://voyant-tools.org/tool/Topics/?view=Topics&stopList=stop.it.italian.txt&corpus=d973efb95eb9f56881ee034bb91fac43))
 
-<iframe style='width: 716px; height: 537px;' src='https://voyant-tools.org/tool/Topics/?view=Topics&stopList=stop.it.italian.txt&corpus=d973efb95eb9f56881ee034bb91fac43'></iframe>
+<iframe style='width: 60%; height: 600px;' src='https://voyant-tools.org/tool/Topics/?view=Topics&stopList=stop.it.italian.txt&corpus=d973efb95eb9f56881ee034bb91fac43'></iframe>
 
 **Dreamscape** - Visualizzare i luoghi menzionati nei testi per un viaggio virtuale
 
