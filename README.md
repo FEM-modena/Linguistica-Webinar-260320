@@ -1,4 +1,4 @@
-<a href="https://fem.digital" rel="FEM | Future Education Modena target="_blank">![](FEM_Logo.png)</a>
+<a href="https://fem.digital" rel="FEM Future Education Modena target="_blank">![](FEM_Logo.png)</a>
 
 
 
