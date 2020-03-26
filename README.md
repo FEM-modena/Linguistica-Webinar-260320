@@ -15,7 +15,12 @@
 In questa prima parte affronteremo due argomenti:
 
 - Che cos’è la linguistica? 4 concetti chiave.
+    - Lo studio scientifico del linguaggio naturale
+    - Studiare la società e le sue dinamiche
+    - La grammatica non esiste
+    - I significati cambiano con l’uso delle parole
 - Che cosa sono le metafore concettuali?
+
 
 
 ## 2. Annotazione linguistica in classe: esercizi di comprensione del testo
