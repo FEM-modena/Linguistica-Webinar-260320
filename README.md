@@ -1,8 +1,14 @@
 <a href="https://fem.digital" rel="FEM Future Education Modena" target="_blank">![](FEM_Logo.png)</a>
 
 
-
 # Lingua italiana e didattica digitale: consigli, suggerimenti e buone pratiche
+
+## Slide del webinar
+
+<a href="https://docs.google.com/presentation/d/1pu8b3L7J1aJ5fAxT6sb9XZ1IBkbcTC8klgbXqq8l-CE" rel="FEM Future Education Modena" target="_blank">Link diretto alle slide</a>
+
+<iframe src="https://docs.google.com/presentation/d/1pu8b3L7J1aJ5fAxT6sb9XZ1IBkbcTC8klgbXqq8l-CE/embed?start=false&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 ## 1. Linguistica: che cos’è? Che cosa ci insegna? Come può essere utilizzata per favorire l’apprendimento? Una chiacchierata con i linguisti
 
@@ -21,7 +27,6 @@ Vediamo adesso gli step da seguire per utilizzarlo al meglio.
 
 Ora faremo una demo live delle attività
 
-TEST SLIDES
 <iframe src="https://docs.google.com/presentation/d/1pu8b3L7J1aJ5fAxT6sb9XZ1IBkbcTC8klgbXqq8l-CE/embed?start=false&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzLIxXLdHDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
