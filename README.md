@@ -13,6 +13,10 @@ servono delle slides
 
 ### Video-tutorial all’uso della piattaforma
 
+TEST SLIDES
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9CeIRFZQja4JCKfTCL2H_aCq4GB2sshuPrX9T9DiEzcQgUJqWMdcDfTNbuIcqx6fsN5xFHJgGekaJ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 Ora faremo una demo live delle attività
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzLIxXLdHDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
