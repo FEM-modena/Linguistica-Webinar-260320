@@ -12,7 +12,10 @@
 
 ### Introduzione
 
+In questa prima parte affronteremo due argomenti:
 
+- Che cos’è la linguistica? 4 concetti chiave.
+- Che cosa sono le metafore concettuali?
 
 
 ## 2. Annotazione linguistica in classe: esercizi di comprensione del testo
@@ -32,8 +35,8 @@ Ora vi guideremo passo passo nello svolgimento dell’attività **Comprensione d
 1. Collegarsi al sito seguendo <a href="http://doccano.fem.digital/" target="_blank">questo link</a>
 2. Fare il **login**. Se si accede per la prima volta, si può 
 
-    - Fare login col proprio account Google
-    - Registrare un nuovo account
+- Fare login col proprio account Google
+- Registrare un nuovo account
 
 La piattaforma vi reindizzerà alla pagina *Projects*, contenente i dataset per le diverse attività.
 
